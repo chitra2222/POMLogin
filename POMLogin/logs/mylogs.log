@@ -1,0 +1,15 @@
+20230220 12:59:45 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase1
+20230220 12:59:50 INFO  [main] TestCases.AutomationTestLogin AutomationTestLogin.java17 - Inside Test case1
+20230220 12:59:54 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase1
+20230220 12:59:56 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase2
+20230220 13:00:00 INFO  [main] TestCases.AutomationTestLogin AutomationTestLogin.java35 - Inside Test case2
+20230220 13:00:09 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase2
+20230220 13:00:12 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase3
+20230220 13:00:15 INFO  [main] TestCases.AutomationTestLogin AutomationTestLogin.java54 - Inside Test case3
+20230220 13:00:30 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase3
+20230220 13:00:32 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase4
+20230220 13:00:36 INFO  [main] TestCases.AutomationTestLogin AutomationTestLogin.java77 - Inside Test case4
+20230220 13:00:44 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase4
+20230220 13:00:46 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java45 - Test Script startedTestCase5
+20230220 13:00:49 INFO  [main] TestCases.AutomationTestLogin AutomationTestLogin.java91 - Inside Test case5
+20230220 13:00:57 INFO  [main] TestCases.BaseTestMethods BaseTestMethods.java55 - Test Script endedTestCase5
